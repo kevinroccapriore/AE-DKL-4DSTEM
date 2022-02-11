@@ -4,6 +4,7 @@ The following notebook and data demonstrates the use of DKL in scanning transmis
 Here, the full structural signal from the HAADF-STEM image is combined with 4D-STEM data, i.e., local diffraction imaging.
 Using DKL, this generates a structure-property relationship between local image patches (in HAADF) and the diffraction pattern originating from the center of that image patch.
 
-Physics is embedded into this active learning process by scalarizing the diffraction pattern by the method of choice. For example, from the 2D diffraction image, the center of mass (CoM) shift is frequently calculated to provide a measure of beam displacement due to (atomic) electric fields. More complex scalarizers and mathematical operations may be used to incorporate the desired physics of interest, for instance, 
+Physics is embedded into this active learning process by scalarizing the diffraction pattern by the method of choice. For example, from the 2D diffraction image, the center of mass (CoM) shift is frequently calculated to provide a measure of beam displacement due to (atomic) electric fields. More complex scalarizers and mathematical operations may be used to incorporate the desired physics of interest.
 
+The workflow is demonstrated in different cases in the following notebook, and may be adapted for both other pre-acquired 4D STEM data as well as live experiments.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinroccapriore/AE-DKL-4DSTEM/blob/main/AE_4DSTEM_DKL.ipynb)
