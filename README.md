@@ -6,6 +6,4 @@ Using DKL, this generates a structure-property relationship between local image 
 
 Physics is embedded into this active learning process by scalarizing the diffraction pattern by the method of choice. For example, from the 2D diffraction image, the center of mass (CoM) shift is frequently calculated to provide a measure of beam displacement due to (atomic) electric fields. More complex scalarizers and mathematical operations may be used to incorporate the desired physics of interest, for instance, 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinroccapriore/AE-DKL/blob/main/AE_STEM_DKL_BO.ipynb)
-
-^ Currently linked to EELS notebook, will update ^
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinroccapriore/AE-DKL-4DSTEM/blob/main/AE_4DSTEM_DKL.ipynb)
